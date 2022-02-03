@@ -16,9 +16,9 @@ const Navigation = () => {
           options={{
             title: "Posts",
             headerStyle: {
-              backgroundColor: "grey",
+              backgroundColor: "rgba(29, 29, 29, 0.94)",
             },
-            headerTintColor: "white",
+            headerTintColor: "#A1A1A1",
             headerTitleStyle: {
               fontWeight: "bold",
             },

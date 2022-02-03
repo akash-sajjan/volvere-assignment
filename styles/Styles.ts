@@ -3,16 +3,13 @@ import { StyleSheet } from "react-native";
 const Styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: "black",
   },
   title: {
     alignItems: "center",
   },
   titleText: {
     fontSize: 20,
-    fontWeight: "bold",
-  },
-  bText: {
-    color: "black",
     fontWeight: "bold",
   },
   card: {
